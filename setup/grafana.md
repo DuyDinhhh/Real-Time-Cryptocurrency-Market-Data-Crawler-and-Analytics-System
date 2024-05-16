@@ -24,4 +24,4 @@ Default account to login
 - password: admin
 ```
 
-<img width="500" alt="image" src="./assets/grafanansetup.jpg">
+<img width="500" alt="image" src="../assets/grafanansetup.png">
